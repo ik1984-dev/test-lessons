@@ -1,2 +1,2 @@
 # test-lessons
-<img width="306" height="172" alt="image" src="https://github.com/user-attachments/assets/49528f46-1c7b-4660-94ed-fe941f8bdcff" />
+<img width="352" height="224" alt="image" src="https://github.com/user-attachments/assets/69d74ba7-ab44-4b9f-ac95-d7fe91a81266" />
